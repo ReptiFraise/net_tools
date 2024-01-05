@@ -1,0 +1,9 @@
+.nox
+.idea/
+.envrc
+.json
+.md
+src/GetARP/arp_tables/*.txt
+src/GetARP/Tables_json/*.json
+src/GetARP/Tables_md/*.md
+src/GetConfig/conf_xml/**/*.xml
